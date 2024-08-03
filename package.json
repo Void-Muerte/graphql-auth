@@ -1,0 +1,40 @@
+{
+  "name": "graphql-auth",
+  "version": "1.0.0",
+  "description": "this is an auth system in nodejs with graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon index.js",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Void-Muerte/graphql-auth.git"
+  },
+  "keywords": [
+    "graphql",
+    "nodejs-graphql-auth",
+    "authentication",
+    "in",
+    "nodejs",
+    "and",
+    "graphql",
+    "graphql",
+    "auth",
+    "system"
+  ],
+  "author": "psychology Simango",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Void-Muerte/graphql-auth/issues"
+  },
+  "homepage": "https://github.com/Void-Muerte/graphql-auth#readme",
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
