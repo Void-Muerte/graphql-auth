@@ -33,7 +33,9 @@
   "dependencies": {
     "@prisma/client": "^5.17.0",
     "apollo-server": "^3.13.0",
+    "bcrypt": "^5.1.1",
     "graphql": "^16.9.0",
+    "jsonwebtoken": "^9.0.2",
     "prisma": "^5.17.0"
   },
   "devDependencies": {
